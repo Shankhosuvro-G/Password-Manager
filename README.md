@@ -3,4 +3,7 @@ The password manager is a tool that securely stores and manages passwords for va
 
 ![image](https://github.com/Shankhosuvro-G/Password-Manager/assets/98182979/21b0c844-dbe5-4d88-9846-0590071496ca)
 
+![image](https://github.com/Shankhosuvro-G/Password-Manager/assets/98182979/ba98b518-b926-46e3-a6c2-3193c224a3fc)
+
+
 
